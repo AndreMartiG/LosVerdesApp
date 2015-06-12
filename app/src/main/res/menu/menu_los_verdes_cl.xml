@@ -1,0 +1,14 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LosVerdesCl">
+
+    <item android:id="@+id/act_inicio" android:title="@string/action_inicio"
+        android:orderInCategory="100" android:showAsAction="never" />
+
+    <item android:id="@+id/act_resto" android:title="@string/action_resto"
+        android:orderInCategory="100" android:showAsAction="never" />
+
+    <item android:id="@+id/act_maps" android:title="@string/action_maps"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>

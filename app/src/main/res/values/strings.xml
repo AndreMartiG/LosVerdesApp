@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Los Verdes</string>
+
+    <string name="hello_world">Hello world!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+
+    <string name="action_inicio">Inicio</string>
+    <string name="action_resto">Gestionar Sedes</string>
+    <string name="action_maps">Mapa Sedes</string>
+
+    <string name="logo">Logo</string>
+
+    <string name="dirweb">www.losverdes.com.co</string>
+    <string name="title_activity_map_los_verdes">Mapa Sedes</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="bsede">Ingrese Sede</string>
+
+    <string name="accionBuscar">Buscar</string>
+    <string name="accionBorrar">Borrar</string>
+    <string name="accionAgreg">Agregar</string>
+    <string name="accionModif">Modificar</string>
+
+    <string name="boton1">Aceptar</string>
+    <string name="boton2">Eliminar</string>
+    <string name="boton3">Guardar</string>
+
+    <string name="NameAct">Nombre Sede:</string>
+    <string name="LatAct">Latit. Actual:</string>
+    <string name="LongAct">Long. Actual:</string>
+    <string name="LatNew">Nueva Latitud</string>
+    <string name="LongNew">Nueva Longitud</string>
+
+
+</resources>
